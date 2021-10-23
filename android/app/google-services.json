@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903560679775",
+    "project_id": "wifi-connect-d7a9b",
+    "storage_bucket": "wifi-connect-d7a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903560679775:android:2a215c376af549818566ea",
+        "android_client_info": {
+          "package_name": "np.com.alokmishra.wifi_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903560679775-9lkq7gjems1k0oa0tngi1m087upsp5m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJKIubWa3P8pZzQgMGN_y6h3CgVxokbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903560679775-9lkq7gjems1k0oa0tngi1m087upsp5m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
